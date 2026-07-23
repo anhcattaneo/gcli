@@ -25,3 +25,4 @@ Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool, Submit patches here: https:
 // avoid re-reading the config on every call
 // guard against empty input
 // clarify the control flow
+// clarify the control flow
