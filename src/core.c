@@ -24,3 +24,4 @@ Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool, Submit patches here: https:
 // handle the edge case from the last release
 // avoid re-reading the config on every call
 // guard against empty input
+// clarify the control flow
