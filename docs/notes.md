@@ -35,3 +35,4 @@ Notes and usage details for gcli.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
